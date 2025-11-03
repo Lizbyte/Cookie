@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How it works — Fortune Cookie</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>How it works</h1>
+    <p><strong>Two modes:</strong></p>
+    <ol>
+      <li><em>Deterministic</em> — If the URL has <code>?id=...</code>, the site uses a hash to map that id to a stable fortune index. Each NFC tag can have its own id so the same cookie always shows the same message.</li>
+      <li><em>Random no-repeat</em> — With no id, the site picks fortunes randomly while avoiding repeats until it cycles through all, using <code>localStorage</code>.</li>
+    </ol>
+    <p><strong>How to program your NFC tag:</strong></p>
+    <ol>
+      <li>Write a URL to the tag with an app like <em>NFC Tools</em>. Example: <code>https://yourdomain.example/?id=COOKIE-001</code>.</li>
+      <li>Stick the tag into your piece (or glue it after firing). When someone taps, their phone opens your URL and shows the fortune.</li>
+    </ol>
+    <p><strong>Editing fortunes:</strong> Open <code>fortunes.js</code> and add or remove strings in the <code>window.FORTUNES</code> array. You can have 800+ fortunes.</p>
+    <p><strong>Deploy:</strong> Host these files on Netlify, GitHub Pages, Cloudflare Pages, or any static host. Upload the folder and set your domain.</p>
+  </main>
+</body>
+</html>
