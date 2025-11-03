@@ -6,13 +6,19 @@
 *{box-sizing:border-box}
 html,body{height:100%}
 body{
-  margin:0;
+  margin: 0;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji;
-  background: #fafafa;
-  color:#111;
-  display:flex;
-  align-items:center;
-  justify-content:center;
+  color: #111;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  
+  /* 🍪 Background image setup */
+  background-image: url('cookie-bg.jpg');
+  background-size: cover;       /* fills the screen */
+  background-position: center;  /* keeps cookies centered */
+  background-attachment: fixed; /* makes background stay while scrolling */
 }
 .container{
   width:min(720px, 92vw);
