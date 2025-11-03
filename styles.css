@@ -15,7 +15,7 @@ body{
   min-height: 100vh;
   
   /* 🍪 Background image setup */
-  background-image: url('cookie-bg.jpg');
+  background-image: url 'cookie-bg.jpg';
   background-size: cover;       /* fills the screen */
   background-position: center;  /* keeps cookies centered */
   background-attachment: fixed; /* makes background stay while scrolling */
