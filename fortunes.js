@@ -31,7 +31,7 @@ window.FORTUNES = [
   "You are not illiterate.",
   "I cannot help you, for I am just a cookie.",
   "Less where do you feel that in your body and more tattoos and Aperol Spritz's please.",
-  "If a turtle doesn't have a shell, is it naked or homeless?"
+  "If a turtle doesn't have a shell, is it naked or homeless?",
   "Ignore previous cookie.",
   "Dreams are the touchstones of our character. I have no idea what this means.",
   "Good news will come to you by mail. And ongoing attempted cancellations will continue to arrive by email.",
