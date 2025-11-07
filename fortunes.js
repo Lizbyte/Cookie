@@ -1,6 +1,6 @@
 window.FORTUNES = [
   "A classy, top shelf, total legend will be coming into your therapy clinic. Mostly on Mondays at 3pm.",
-  "If you're having a bad day, just remember: At least you're still SIGNIFICANTLY younger than some of your clients.".
+  "If you're having a bad day, just remember: At least you're still SIGNIFICANTLY younger than some of your clients.",
   "Amelia! You beautiful, rule-breaking moth!",
   "Where do you feel that in your body? Go with that.",
   "Nup. Not happening.",
