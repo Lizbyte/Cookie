@@ -49,7 +49,7 @@ window.FORTUNES = [
   "You have the time management skills of a cucumber.",
   "You're a freckle faced fart from Kmart.",
   "Talent! Beauty! Class!",
-  "Granola 4 Eva",
+  "Granola 4 Eva.",
   "It's a no from me.",
   "Remember: Sometimes you just gotta throw some shit to the wind and see what sticks.",
   "I would rather bleed out than sit here and talk about my feelings for 10 minutes.",
