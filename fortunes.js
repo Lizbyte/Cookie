@@ -47,7 +47,7 @@ window.FORTUNES = [
   "Keys? Check. Wallet? Check. Airtags that have the complete wrong names? Check.",
   "Your mind is your greatest treasure (Well, I mean.. yours might be. Mine's a liability).",
   "You have the time management skills of a cucumber.",
-  "You're a freckle faced fart from Kmart".,
+  "You're a freckle faced fart from Kmart.",
   "Talent! Beauty! Class!",
   "Granola 4 Eva",
   "It's a no from me.",
