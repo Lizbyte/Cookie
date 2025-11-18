@@ -32,7 +32,7 @@ window.FORTUNES = [
   "If a turtle doesn't have a shell, is it naked or homeless?",
   "Ignore previous cookie.",
   "Dreams are the touchstones of our character (I have no idea what this means).",
-  "Good news will come to you by mail. And ongoing attempted cancellations will continue to arrive by email. Any maybe text.",
+  "Good news will come to you by mail. And ongoing attempted cancellations will continue to arrive by email. And maybe text.",
   "Jesus, take the wheel already.",
   "Fameli, you tricky bastard. Go get 'em.",
   "Remember: Old people don't mean to have fragile bones.",
