@@ -1,5 +1,5 @@
 window.FORTUNES = [
-  "A classy, top shelf, total legend will be coming into your therapy clinic. Mostly on Mondays at 3pm.",
+  "PREDICTION: A classy, top shelf, total legend will be coming into your therapy clinic. Mostly on Mondays at 3pm.",
   "If you're having a bad day, just remember: At least you're still SIGNIFICANTLY younger than some of your clients.",
   "Amelia! You beautiful, rule-breaking moth!",
   "Where do you feel that in your body? Go with that.",
@@ -27,7 +27,6 @@ window.FORTUNES = [
   "Who allowed you to be this beautiful?",
   "Only listen to this fortune cookie. Disregard all other fortune cookies.",
   "Love yourself you piece of shit.",
-  "You are not illiterate.",
   "I cannot help you, for I am just a cookie.",
   "Less where do you feel that in your body and more tattoos and Aperol Spritz's please.",
   "If a turtle doesn't have a shell, is it naked or homeless?",
