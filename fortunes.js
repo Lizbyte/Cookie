@@ -59,5 +59,6 @@ window.FORTUNES = [
   "High five, still alive.",
   "Just between us, you got that big tism energy.",
   "You seem a little dysfunctional.",
-  "Get in the bin."
+  "Get in the bin.",
+  "This fortune only exists so there wouldn't be an odd number of fortunes."
 ];
