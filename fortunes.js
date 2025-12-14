@@ -1,5 +1,5 @@
 window.FORTUNES = [
-  "PREDICTION: A classy, top shelf, total legend will be coming into your therapy clinic. Mostly on Mondays at 3pm.",
+  "PREDICTION: A classy, top shelf, total legend will be coming into your therapy clinic. Mostly on Mondays. At 3pm. 315pm at the latest.",
   "If you're having a bad day, just remember: At least you're still SIGNIFICANTLY younger than some of your clients.",
   "Amelia! You beautiful, rule-breaking moth!",
   "Where do you feel that in your body? Go with that.",
@@ -55,10 +55,12 @@ window.FORTUNES = [
   "I would rather bleed out than sit here and talk about my feelings for 10 minutes.",
   "You're welcome, you beady-eyed bastard.",
   "What... and I mean this respectfully... the fuck?!",
+  "Chocolate covered sultanas? Immediately no.",
   "Got memes?",
   "High five, still alive.",
   "Just between us, you got that big tism energy.",
   "You seem a little dysfunctional.",
   "Get in the bin.",
-  "This fortune only exists so there wouldn't be an odd number of fortunes."
+  "This fortune only exists so there wouldn't be an odd number of fortunes.".
+  "Started from the bottom. Now a little bit below the bottom."
 ];
