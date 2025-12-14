@@ -7,7 +7,6 @@ window.FORTUNES = [
   "Fruit and nut chocolate is a terrible choice.",
   "You're doing your best. Which is fucking embarrassing.",
   "Perhaps it's time to buy a top sheet. Just a thought.",
-  "I'm not a social butterfly but if you want a disassociating moth, hit me up.",
   "Ya mum.",
   "Wait. Maybe therapy IS the problem?",
   "Treat yo self!",
@@ -36,13 +35,13 @@ window.FORTUNES = [
   "Jesus, take the wheel already.",
   "Fameli, you tricky bastard. Go get 'em.",
   "Remember: Old people don't mean to have fragile bones.",
-  "Some days you just gotta pretend to be an axolotl in the pool, you know?",
+  "Some days you just gotta pretend to be an axolotl in the pool and that's OK, you know?",
   "Maybe it's time to scope the edges? (I still have no idea what this means).",
   "Just remember: There's nothing we can't do if we work hard, never sleep and shirk all other responsibilities in our lives.",
   "Love fades. Things are forever.",
   "You're doing great sweetie!",
-  "I love your disordered thinking.",
-  "This one's broken.",
+  "I love your (disordered) thinking.",
+  "This one's broken #womeninstem",
   "You're a national treasure.",
   "Keys? Check. Wallet? Check. Airtags that have the complete wrong names? Check.",
   "Your mind is your greatest treasure (Well, I mean.. yours might be. Mine's a liability).",
@@ -62,5 +61,5 @@ window.FORTUNES = [
   "You seem a little dysfunctional.",
   "Get in the bin.",
   "This fortune only exists so there wouldn't be an odd number of fortunes.",
-  "Started from the bottom. Now a little bit below the bottom."
+  "Started from the bottom. Now we're a little bit below the bottom."
 ];
