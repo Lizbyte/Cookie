@@ -28,7 +28,7 @@ window.FORTUNES = [
   "Love yourself you piece of shit.",
   "I cannot help you, for I am just a cookie.",
   "Less where do you feel that in your body and more tattoos and Aperol Spritz's please.",
-  "If a turtle doesn't have a shell, is it naked or homeless?",
+  "Question that's been bothering me lately - If a turtle doesn't have a shell, is it naked or homeless?",
   "Ignore previous cookie.",
   "Dreams are the touchstones of our character (I have no idea what this means).",
   "Good news will come to you by mail. And ongoing attempted cancellations will continue to arrive by email. And maybe text.",
@@ -41,7 +41,6 @@ window.FORTUNES = [
   "Love fades. Things are forever.",
   "You're doing great sweetie!",
   "I love your (disordered) thinking.",
-  "This one's broken #womeninstem",
   "You're a national treasure.",
   "Keys? Check. Wallet? Check. Airtags that have the complete wrong names? Check.",
   "Your mind is your greatest treasure (Well, I mean.. yours might be. Mine's a liability).",
@@ -59,7 +58,7 @@ window.FORTUNES = [
   "High five, still alive.",
   "Just between us, you got that big tism energy.",
   "You seem a little dysfunctional.",
-  "Get in the bin.",
+  "Fameli, get in the bin.",
   "This fortune only exists so there wouldn't be an odd number of fortunes.",
   "Started from the bottom. Now we're a little bit below the bottom."
 ];
