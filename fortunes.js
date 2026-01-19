@@ -3,6 +3,7 @@ window.FORTUNES = [
   "If you're having a bad day, just remember: At least you're still SIGNIFICANTLY younger than some of your clients.",
   "Amelia! You beautiful, rule-breaking moth!",
   "Where do you feel that in your body? gO wItH tHaT.",
+  "You are a child with the bubonic plague! It's time to don your night garments and read by candlelight. Not hit up The Frat for cheap pizzas!",
   "Fruit and nut chocolate is a terrible choice.",
   "You're doing your best. Which is fucking embarrassing.",
   "Perhaps it's time to buy a top sheet. Just a thought.",
