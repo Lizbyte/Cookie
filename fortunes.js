@@ -70,4 +70,10 @@ window.FORTUNES = [
   "Fameli, get in the bin.",
   "This fortune only exists so there wouldn't be an odd number of fortunes.",
   "Started from the bottom. Now we're a little bit below the bottom."
+  "OK Bruce Bogtrotter, time to eat this shitcake.",
+  "Your dad's GF is 39. Just sayin'.",
+  "For you? No, I don't have high expectations.",
+  "Fameli, you rogue! Stop being such a scoundrel!",
+  "2025. The year I somehow got further away from my goals.",
+  "Congrats you have exceeded expectations. Meanwhile I met 'some' expectations. Which was mostly gently negging you and deflecting any and all therapeutic interventions."
 ];
