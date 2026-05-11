@@ -62,7 +62,7 @@ window.FORTUNES = [
   "You seem a little dysfunctional.",
   "Fameli, get in the bin.",
   "This fortune only exists so there wouldn't be an odd number of fortunes.",
-  "Started from the bottom. Now we're a little bit below the bottom."
+  "Started from the bottom. Now we're a little bit below the bottom.",
   "OK Bruce Bogtrotter, time to eat this shitcake.",
   "Your dad's GF is 39. Just sayin'.",
   "For you? No, I don't have high expectations.",
